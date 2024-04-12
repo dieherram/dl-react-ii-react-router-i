@@ -1,0 +1,14 @@
+.navbar-container img {
+    width: 2em;
+}
+
+.home-container img,
+.not-found-container img {
+    width: 8em;
+}
+
+.home-container,
+.contact-page-container,
+.not-found-container {
+    height: 100%;
+}
