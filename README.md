@@ -108,12 +108,15 @@ export default ContactPage
 - React Router
 - CSS
 
-## Cómo utilizar la aplicación 🌟
+## Cómo Contribuir 🌟
 
-1. Clona este repositorio.
-2. Instala las dependencias con `npm install`.
-3. Ejecuta la aplicación con `npm start`.
-4. Navega entre las vistas Home y Contacto utilizando el Navbar.
+1. Haz un fork de este repositorio.
+2. Clona tu fork a tu máquina local.
+3. Instala las dependencias con `npm install`.
+4. Ejecuta la aplicación en modo de desarrollo con `npm run dev`.
+5. Realiza tus cambios y mejoras.
+6. Haz commit y empuja tus cambios a tu repositorio en GitHub.
+7. Haz un pull request para contribuir tus cambios de vuelta a este repositorio.
 
 ## Mejoras Futuras 🚀
 
